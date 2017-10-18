@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE jornada>
+  <jornada>
+    <partido>
+
+      <resultado>2-1</resultado>
+
+      <equipo nombre="Betis">
+
+        <local>Sí</local>
+
+        <gol>
+          <minuto>34</minuto>
+          <resultadomom>1-0</resultadomom>
+          <goleador>Sergio León</goleador>
+          <penalty>No</penalty>
+        </gol>
+
+        <gol>
+          <minuto>72</minuto>
+          <resultadomom>2-1</resultadomom>
+          <goleador>Feddal</goleador>
+          <penalty>No</penalty>
+        </gol>
+
+      </equipo>
+
+      <equipo nombre="Celta">
+
+        <local>No</local>
+
+        <gol>
+          <minuto>62</minuto>
+          <resultadomom>1-1</resultadomom>
+          <goleador>Iago Aspas</goleador>
+          <penalty>No</penalty>
+        </gol>
+
+        <tarjeta color="amarilla">
+          <minuto>65</minuto>
+          <jugador>Iago Aspas</jugador>
+          <motivo>Patada en la rodilla</motivo>
+        </tarjeta>
+
+      </equipo>
+
+    </partido>
+
+  </jornada>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE stock>
+<stock>
+
+  <cochenuevo>
+    <modelo>BMW Z8</modelo>
+    <precio>24600€</precio>
+  </cochenuevo>
+
+  <cocheusado>
+    <modelo>Citroen C4</modelo>
+    <precio>8000€</precio>
+    <kilometraje>10000Km</kilometraje>
+    <condicion>Excelente</condicion>
+  <cocheusado>
+
+  <cocheusado>
+    <modelo>Citroen Xsara</modelo>
+    <precio>6500€</precio>
+    <kilometraje>14000Km</kilometraje>
+    <condicion>Pintura algo gastada</condicion>
+  <cocheusado>
+
+</stock>

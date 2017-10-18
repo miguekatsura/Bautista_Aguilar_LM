@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cordillera>
+<cordillera>
+  <cadena>
+    <monte>
+      <nombre>Moncayo</nombre>
+    </monte>
+    <monte>
+      <nombre>Teide</nombre>
+      <altura unidadMedida="m">2000</altura>
+    </monte>
+  </cadena>
+</cordillera>

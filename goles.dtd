@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE jornada[
+<!ELEMENT jornada (partido)>
+<!ELEMENT partido (resultado,equipo,equipo)>
+<!ELEMENT resultado(#PCDATA)>
+<!ELEMENT equipo (local,gol?,tarjetaamarilla?)>
+<!ATTLIST nombre CDATA #REQUIRED>
+<!ELEMENT local (#PCDATA)>
+<!ELEMENT gol (minuto,goleador,resultadomom,penalty?)>
+<!ELEMENT minuto (#PCDATA)>
+<!ELEMENT goleador (#PCDATA)>
+<!ELEMENT resultadomom (#PCDATA)>
+<!ELEMENT penalty (#PCDATA)>
+<!ELEMENT tarjeta (jugador, minuto, motivo)>
+<!ATTLIST tarjeta color (amarilla/roja) "amarilla" CDATA #REQUIRED>
+<!ELEMENT jugador (#PCDATA)>
+<!ELEMENT minuto (#PCDATA)>
+<!ELEMENT motiVo (#PCDATA)>
+]>

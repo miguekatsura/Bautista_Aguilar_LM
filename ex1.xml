@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cartelera>
+<cartelera>
+    <pelicula titulo="Matrix">
+          <sala>
+              Sala 6
+          </sala>
+          <sesiones>
+            <sesion>12:30-14:00</sesion>
+            <sesion>16:30-18:00</sesion>
+            <sesion>20:00-21:30</sesion>
+          </sesiones>
+          <descripcion>
+                <director>
+                  Hermanas Wachowski
+                </director>
+                <protagonistas>
+                    <protagonista>
+                      Neo
+                    </protagonista>
+                    <protagonista>
+                      Agente Smith
+                    </protagonista>
+                </protagonistas>
+                <resumen>
+                  La película plantea que en el futuro, casi todos los seres humanos han sido esclavizados, tras una dura guerra, por las máquinas y las inteligencias artificiales creadas
+                </resumen>
+          </descripcion>
+    </pelicula>
+
+
+    <pelicula titulo="La guia del autoestopista galáctico">
+        <sala>
+            Sala 4
+        </sala>
+        <sesiones>
+          <sesion>12:00-14:00</sesion>
+          <sesion>16:00-18:00</sesion>
+          <sesion>20:30-22:30</sesion>
+        </sesiones>
+        <descripcion>
+              <director>
+                Douglas Adams
+              </director>
+              <protagonistas>
+                  <protagonista>
+                    Arthur Dent
+                  </protagonista>
+                  <protagonista>
+                    Trillian
+                  </protagonista>
+              </protagonistas>
+              <resumen>
+              Una mañana, despertado por el sonido de las máquinas que avanzan hacia su casa, Arthur Dent se da cuenta de que su hogar va a ser destruido...
+              </resumen>
+        </descripcion>
+      </pelicula>
+
+      <pelicula titulo="Deadpool">
+          <sala>
+              Sala 1
+          </sala>
+          <sesiones>
+            <sesion>11:00-13:00</sesion>
+            <sesion>15:00-17:00</sesion>
+            <sesion>20:30-22:30</sesion>
+          </sesiones>
+          <descripcion>
+                <director>
+                  Tim Miller
+                </director>
+                <protagonistas>
+                    <protagonista>
+                      Deadpool
+                    </protagonista>
+                    <protagonista>
+                      Coloso
+                    </protagonista>
+                </protagonistas>
+                <resumen>
+                Wade Wilson es un mercenario que pasa su tiempo en la ciudad de Nueva York protegiendo a las adolescentes de los posibles acosadores. El conoce a Vanessa Carlysle en un club nocturno...
+                </resumen>
+          </descripcion>
+        </pelicula>
+
+        <pelicula titulo="Código Fuente">
+            <sala>
+                Sala 2
+            </sala>
+            <sesiones>
+              <sesion>10:00-12:00</sesion>
+              <sesion>16:00-18:00</sesion>
+              <sesion>21:30-23:30</sesion>
+            </sesiones>
+            <descripcion>
+                  <director>
+                    Duncan Jones
+                  </director>
+                  <protagonistas>
+                      <protagonista>
+                        Colter Stevens
+                      </protagonista>
+                      <protagonista>
+                        Derek Frost
+                      </protagonista>
+                  </protagonistas>
+                  <resumen>
+                  El capitán Colter Stevens (Jake Gyllenhaal) se despierta en un tren a toda velocidad sin saber cómo ha llegado allí. Sentado frente a él se encuentra una hermosa joven...
+                  </resumen>
+            </descripcion>
+          </pelicula>
+
+          <pelicula titulo="Dunkerque">
+              <sala>
+                  Sala 7
+              </sala>
+              <sesiones>
+                <sesion>12:00-15:00</sesion>
+                <sesion>16:00-19:00</sesion>
+                <sesion>20:30-23:30</sesion>
+              </sesiones>
+              <descripcion>
+                    <director>
+                      Christopher Nolan
+                    </director>
+                    <protagonistas>
+                        <protagonista>
+                          Tommy, soldado del ejército británico
+                        </protagonista>
+                        <protagonista>
+                          Gibson, soldado francés de bajo rango
+                        </protagonista>
+                    </protagonistas>
+                    <resumen>
+                    Dunkerque es una ciudad francesa que sirvió como escenario para la operación militar de los Aliados entre mayo y junio de 1940 en la que se centra la película.
+                    </resumen>
+              </descripcion>
+            </pelicula>

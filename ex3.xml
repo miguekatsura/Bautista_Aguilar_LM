@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE horario>
+  <horario>
+
+      <dia nombre="lunes">
+          <hora t="8:15-9:15">
+            <asignatura nombre="Lenguaje de Marcas"> </asignatura>
+            <profesor nombre="Juan" apellidos="Diego"> </profesor>
+            <aula numero="110"> </aula>
+          </hora>
+
+          <hora t="9:15-10:15">
+            <asignatura nombre="Lenguaje de Marcas"> </asignatura>
+            <profesor nombre="Juan" apellidos="Diego"> </profesor>
+            <aula numero="110"> </aula>
+          </hora>
+
+          <hora t="10:15-11:15">
+            <asignatura nombre="FOL"> </asignatura>
+            <profesor nombre="Juan" apellidos="Diego"> </profesor>
+            <aula numero="110"> </aula>
+          </hora>
+
+          <hora t="11:15-11:45">
+            <asignatura nombre="recreo"> </asignatura>
+          </hora>
+
+          <hora t="11:45-12:45">
+            <asignatura nombre="ISO"> </asignatura>
+            <profesor nombre="Antonio" apellidos="?"> </profesor>
+            <aula numero="110"> </aula>
+          </hora>
+
+          <hora t="12:45-13:45">
+            <asignatura nombre="ISO"> </asignatura>
+            <profesor nombre="Antonio" apellidos="?"> </profesor>
+            <aula numero="110"> </aula>
+          </hora>
+
+          <hora t="13:45-14:45">
+            <asignatura nombre="ISO"> </asignatura>
+            <profesor nombre="Antonio" apellidos="?"> </profesor>
+            <aula numero="110"> </aula>
+          </hora>
+        </dia>
+
+        <dia nombre="Martes">
+            <hora t="8:15-9:15">
+              <asignatura nombre="Gestión de bases de datos"> </asignatura>
+              <profesor nombre="Antonio" apellidos="?"> </profesor>
+              <aula numero="110"> </aula>
+            </hora>
+
+            <hora t="9:15-10:15">
+              <asignatura nombre="Gestión de bases de datos"> </asignatura>
+              <profesor nombre="Juan" apellidos="Diego"> </profesor>
+              <aula numero="110"> </aula>
+            </hora>
+
+            <hora t="10:15-11:15">
+              <asignatura nombre="Gestión de bases de datos"> </asignatura>
+              <profesor nombre="Juan" apellidos="Diego"> </profesor>
+              <aula numero="110"> </aula>
+            </hora>
+
+            <hora t="11:15-11:45">
+              <asignatura nombre="recreo"> </asignatura>
+            </hora>
+
+            <hora t="11:45-12:45">
+              <asignatura nombre="Redes"> </asignatura>
+              <profesor nombre="Antonio" apellidos="?"> </profesor>
+              <aula numero="110"> </aula>
+            </hora>
+
+            <hora t="12:45-13:45">
+              <asignatura nombre="Redes"> </asignatura>
+              <profesor nombre="Antonio" apellidos="?"> </profesor>
+              <aula numero="110"> </aula>
+            </hora>
+
+            <hora t="13:45-14:45">
+              <asignatura nombre="Redes"> </asignatura>
+              <profesor nombre="Antonio" apellidos="?"> </profesor>
+              <aula numero="110"> </aula>
+            </hora>
+          </dia>
+
+          <dia nombre="miercoles">
+              <hora t="8:15-9:15">
+                <asignatura nombre="ISO"> </asignatura>
+                <profesor nombre="Antonio" apellidos="?"> </profesor>
+                <aula numero="110"> </aula>
+              </hora>
+
+              <hora t="9:15-10:15">
+                <asignatura nombre="ISO"> </asignatura>
+                <profesor nombre="Antonio" apellidos="?"> </profesor>
+                <aula numero="110"> </aula>
+              </hora>
+
+              <hora t="10:15-11:15">
+                <asignatura nombre="ISO"> </asignatura>
+                <profesor nombre="Antonio" apellidos="?"> </profesor>
+                <aula numero="110"> </aula>
+              </hora>
+
+              <hora t="11:15-11:45">
+                <asignatura nombre="recreo"> </asignatura>
+              </hora>
+
+              <hora t="11:45-12:45">
+                <asignatura nombre="Lenguaje de Marcas"> </asignatura>
+                <profesor nombre="Juan" apellidos="Diego"> </profesor>
+                <aula numero="110"> </aula>
+              </hora>
+
+              <hora t="12:45-13:45">
+                <asignatura nombre="Lenguaje de Marcas"> </asignatura>
+                <profesor nombre="Juan" apellidos="Diego"> </profesor>
+                <aula numero="110"> </aula>
+              </hora>
+
+              <hora t="13:45-14:45">
+                <asignatura nombre="FOL"> </asignatura>
+                <profesor nombre="??" apellidos="?"> </profesor>
+                <aula numero="110"> </aula>
+              </hora>
+            </dia>
+
+            <dia nombre="jueves">
+                <hora t="8:15-9:15">
+                  <asignatura nombre="FOL"> </asignatura>
+                  <profesor nombre="??" apellidos="?"> </profesor>
+                  <aula numero="110"> </aula>
+                </hora>
+
+                <hora t="9:15-10:15">
+                  <asignatura nombre="Fundamentos de Hardware"> </asignatura>
+                  <profesor nombre="Antonio" apellidos="?"> </profesor>
+                  <aula numero="110"> </aula>
+                </hora>
+
+                <hora t="10:15-11:15">
+                  <asignatura nombre="Fundamentos de Hardware"> </asignatura>
+                  <profesor nombre="Antonio" apellidos="?"> </profesor>
+                  <aula numero="110"> </aula>
+                </hora>
+
+                <hora t="11:15-11:45">
+                  <asignatura nombre="recreo"> </asignatura>
+                </hora>
+
+                <hora t="11:45-12:45">
+                  <asignatura nombre="Fundamentos de Hardware"> </asignatura>
+                  <profesor nombre="Antonio" apellidos="?"> </profesor>
+                  <aula numero="110"> </aula>
+                </hora>
+
+                <hora t="12:45-13:45">
+                  <asignatura nombre="ISO"> </asignatura>
+                  <profesor nombre="Antonio" apellidos="?"> </profesor>
+                  <aula numero="110"> </aula>
+                </hora>
+
+                <hora t="13:45-14:45">
+                  <asignatura nombre="ISO"> </asignatura>
+                  <profesor nombre="Antonio" apellidos="?"> </profesor>
+                  <aula numero="110"> </aula>
+                </hora>
+              </dia>
+
+              <dia nombre="viernes">
+                  <hora t="8:15-9:15">
+                    <asignatura nombre="Gestión de bases de datos"> </asignatura>
+                    <profesor nombre="Juan" apellidos="Diego"> </profesor>
+                    <aula numero="110"> </aula>
+                  </hora>
+
+                  <hora t="9:15-10:15">
+                    <asignatura nombre="Gestión de bases de datos"> </asignatura>
+                    <profesor nombre="Juan" apellidos="Diego"> </profesor>
+                    <aula numero="110"> </aula>
+                  </hora>
+
+                  <hora t="10:15-11:15">
+                    <asignatura nombre="Gestión de bases de datos"> </asignatura>
+                    <profesor nombre="Juan" apellidos="Diego"> </profesor>
+                    <aula numero="110"> </aula>
+                  </hora>
+
+                  <hora t="11:15-11:45">
+                    <asignatura nombre="recreo"> </asignatura>
+                  </hora>
+
+                  <hora t="11:45-12:45">
+                    <asignatura nombre="Redes"> </asignatura>
+                    <profesor nombre="Antonio" apellidos="?"> </profesor>
+                    <aula numero="110"> </aula>
+                  </hora>
+
+                  <hora t="12:45-13:45">
+                    <asignatura nombre="Redes"> </asignatura>
+                    <profesor nombre="Antonio" apellidos="?"> </profesor>
+                    <aula numero="110"> </aula>
+                  </hora>
+
+                  <hora t="13:45-14:45">
+                    <asignatura nombre="Redes"> </asignatura>
+                    <profesor nombre="Antonio" apellidos="?"> </profesor>
+                    <aula numero="110"> </aula>
+                  </hora>
+                </dia>
+          </horario>

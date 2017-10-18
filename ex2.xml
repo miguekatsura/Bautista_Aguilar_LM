@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE equipo>
+  <equipo idusuario="Migue">
+      <hardware>
+
+          <motherboard nombre="Gigabyte H81-M 2SH">
+            <fabricante>
+              Gigabyte
+            </fabricante>
+            <precio>
+              52,95 euros
+            </precio>
+          </motherboard>
+
+          <CPU name="Intel i5 4460">
+              <fabricante>
+                Intel
+              </fabricante>
+
+              <precio>
+                170 euros
+              </precio>
+
+              <núcleos>
+                  <numero>
+                    4 núcleos
+                  </numero>
+                  <frecuencia>
+                    3,2 GHz
+                  </frecuencia>
+              </núcleos>
+          </CPU>
+
+          <RAM nombre="Kingston Hyper-x 8 Gb 1600 MHz">
+
+            <fabricante>
+              Kingston
+            </fabricante>
+
+            <precio>
+              50 euros
+            </precio>
+
+            <memoria>
+              8 Gb
+            </memoria>
+
+            <frecuencia>
+              1600 MHz
+            </frecuencia>
+
+          </RAM>
+
+          <GPU name="Gigabyte Nvidia GTX 950 2Gb">
+
+            <fabricante>
+              Gigabyte
+            </fabricante>
+            <precio>
+              160 euros
+            </precio>
+            <memoria>
+              2 Gb
+            </memoria>
+            <frecuencia>
+              1 GHz
+            </frecuencia>
+          </GPU>
+
+          <HDD name="Seagate Barracuda 1Tb SATA3">
+            <fabricante>
+              Seagate
+            </fabricante>
+            <precio>
+              45 euros
+            </precio>
+            <memoria>
+              1 Tb
+            </memoria>
+            <rpm>
+              9000 rpm
+            </rpm>
+        </hardware>
+      </equipo>
